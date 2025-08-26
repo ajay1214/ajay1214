@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Ajay Bind and I'm a undergraduate at NIT Warangal</p>
+<p align="left">My name is Ajay Bind and I'm pursuing Master's in Computer Science & Engineering from NIT Hamirpur</p>
+<p align="left"> and I'm a Btech graduate from NIT Warangal</p>
 
 ###
 
@@ -10,7 +11,7 @@
 
 ###
 
-<p align="left">🎓 I'm a undergraduate student of NIT Warangal. <br>🎯 I'm currently aspiring for Software Engineer<br>📈 I'm skilled in C++, C, Data structures and Algorithms. I've solved over 500+ coding problems of DSA. Plus, I've played with in making websites using MERN Stack.</p>
+<p align="left">🎓 A B.Tech graduate from NIT Warangal and currently pursuing M.Tech in Computer Science and Engineering at NIT Hamirpur. <br>🎯 I'm currently aspiring for Software Engineer<br>📈 I'm skilled in C++, C, Data structures and Algorithms. I've solved over 500+ coding problems of DSA. Plus, I've played with in making websites using MERN Stack.</p>
 
 ###
 
